@@ -6,7 +6,9 @@ Global warming and climate change are growing threats to the existance of our sp
 
 Rising levels of atmospheric greenhouse gases resulting from the advent of the Industrial Revolution (1760 - 1820) and perpetuated by modern industrial society have created a dangerous environment where it is becoming more difficult for the planet to cool itself. Under normal conditions, the Earth is able to radiate excess heat into space in the form of infrared radiation. However, the increased concentration of greenhouse gases in the atmosphere absorb this radiant energy and prevent its release into space, causing an increase in temperature of the lower atmosphere and surface air.
 
-<img src="ghg2.png" style="center">
+<p align="center">
+<img src="ghg2.png">
+</p>
 
 Climate scientists urge immediate action on this greenhouse gas effect described above as many estimates suggest that if the average global temperature were to increase by +2.0 degrees C, Earth would enter a hothouse climate state. In this state, not only would the planet be unable to cool itself through natural processes, it would induce self-reinforcing feedbacks that would actually contribute to warming the planet further. In essence, as the planet warms, the ice caps and snow packs would melt. As the ice caps and snow packs melt, the Earth's ability to reflect radiant energy from the sun decreases, resulting in a further increase in temperatures. Additionally, the melting ice caps and snow packs would end up increasing global sea levels, dramatically reducing the inhabital land mass of the continents.
 
