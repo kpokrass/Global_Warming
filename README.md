@@ -28,7 +28,9 @@ One of the main factors that could cause more immediate changes in global temper
 
 The model created in this project is able to predict the average global temperature change with 74.6% accuracy and estimates that the planet will reach the +2.0 degrees C critical tipping point in 2081.
 
-<img src="temp_forecast.png">
+<p align="center">
+<img src="temp_forecast.png" width="600" height="560">
+</p>
 
 ## Effects of Global Warming
 
