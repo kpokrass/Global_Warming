@@ -56,4 +56,4 @@ This project also built a model to forecast cumulative sea level changes. The mo
 
 Agricultural, residential, and commerical infrastructure will be the aspects of society immediately impacted by rising sea levels. An interactive application was created as a part of this project to estimate and visualize the number of people that will be impacted for each 10cm increase in sea level. The application combines the forecasted temperature and sea level values to bring awareness to the human cost of the global warming crisis. A gif of the application is shown below.
 
-<img src="app_demo.gif">
+<img src="app_screenshot.png">
