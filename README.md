@@ -1,6 +1,6 @@
 # Global Warming and Climate Change
 
-Global warming and climate change are growing threats to the existance of our species on Earth. While these two terms are used interchangibly, global warming is only referring to the change in global temperatures, where climate change involves the change in global temperatures along with the effects of this change. Eventhough a majority of the scientific community is in consensus about the existence of global warming, its causes, and its threat to humanity, there are many people that deny this reality. The aim of this project is to explore the data surounding global warming and its effects to bring awareness to this impending global crisis and to aid in conversations regarding mitigative efforts and solutions.
+Global warming and climate change are growing threats to the existance of our species on Earth. While these two terms are used interchangibly, global warming is only referring to the change in global temperatures, where climate change involves the change in global temperatures along with the effects of this change. Even though a majority of the scientific community is in consensus about the existence of global warming, its causes, and its threat to humanity, there are many people that deny this reality. The aim of this project is to explore the data surounding global warming and its effects to bring awareness to this impending global crisis and to aid in conversations regarding mitigative efforts and solutions.
 
 ## Causes
 
